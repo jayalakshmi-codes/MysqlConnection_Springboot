@@ -60,3 +60,4 @@ This project is created to practice MySQL integration with Spring Boot and under
 ## 🙌 Author
 
 **Jayalakshmi S**
+🔗 GitHub: https://github.com/jayalakshmi-codes
